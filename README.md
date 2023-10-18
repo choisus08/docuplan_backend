@@ -3,7 +3,7 @@
 
 
 ## Descripton
-Doc UPlan is a full CRUD app developed with Vue and Django that compiles all doctors appointments (family, dentist, optometrist, specialist, etc.) into a calendar to improve time management, organization, and lifestyle. Users can view a list of various appointments and the calendar month of choice displaying all past and future appointments.  
+Doc UPlan is a full CRUD application developed with Vue and Django that compiles all doctors appointments (family, dentist, optometrist, specialist, etc.) into a calendar to improve time management, organization, and lifestyle. Users can view a list of various appointments and the calendar month of choice displaying all past and future appointments.  
 
 ## Link
 - [**Github**](https://github.com/choisus08/docuplan_backend/tree/main)
